@@ -1,0 +1,9 @@
+ollama
+typing
+streamlit
+python-docx
+logging
+langchain
+langchain_community
+pytest
+whisper
